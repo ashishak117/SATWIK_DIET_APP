@@ -1,7 +1,7 @@
 # 🥗 Satwik Diet App  
 
 ✨ A **personalized Ayurvedic meal planning app** with meal plans, food explorer, and local reminders (Android).  
-This repo contains the **Flutter mobile app** and a small **FastAPI backend** used for generating 30-day meal plans.  
+This repo contains the **Flutter mobile app** and a small **FastAPI backend** used for generating 30-day meal plans hosted in render and has seperate repo (https://github.com/ashishak117/swatik_diet_app.git).  
 
 ---
 
